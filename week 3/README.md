@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 2, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Sara Levine)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, we learned about version control systems and git. We then gained practical experience pushing files and using the git commands.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Version control systems are in place to make editing, sharing and storing files among developers easier.)
+2. (Readme files include basic information about the software and developers.)
+3. (Git is )
